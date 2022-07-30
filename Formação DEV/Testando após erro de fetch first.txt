@@ -1,1 +1,0 @@
-Testando apos erro de fetch first
