@@ -5,7 +5,7 @@ enter
 - cd e copiar o nome do repositório (main)
 - git status para verificar se está na branch main
 
-trabalhar criando pastas no seu repositório
+trabalhar criando pastas no seu repositório local
 
 - git status para verificar se as pastas criadas foram localizadas (aparecerão em vermelho)
 - git add .
