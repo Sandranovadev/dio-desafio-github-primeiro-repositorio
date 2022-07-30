@@ -1,0 +1,16 @@
+Máquina Local x Nuvem Git Hub
+
+- git clone (copiar o código https git hub)
+enter
+- cd e copiar o nome do repositório (main)
+- git status para verificar se está na branch main
+
+trabalhar criando pastas no seu repositório
+
+- git status para verificar se as pastas criadas foram localizadas (aparecerão em vermelho)
+- git add .
+- git status para verificar a inclusão das pastas (aparecerão em verde)
+
+Enviar da pasta local para nuvem git hub
+- git commit -m "........." comentário deve ser coerente para identificar sua criação
+- git push origin main (para enviar todos os arquivos criados no local para nuvem git hub)
